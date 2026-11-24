@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "a8f4c2e1-7b3d-4e9a-9c1f-6d2e8a4b5c70",
+    "name": "IMDb Smart Lookup",
+    "description": "Automatically resolves IMDb IDs during library scans with configurable year tolerance and passes them to downstream metadata providers like TheMovieDb.",
+    "overview": "Automatic IMDb ID lookup with year tolerance during library scans",
+    "owner": "manuelniehues",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial public release: automatic IMDb ID lookup with configurable year tolerance, localized title support, rate limiting, and in-memory caching for Movies and Series.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/manuelniehues/imdb-smart-lookup/releases/download/v1.0.0.0/imdb-smart-lookup_1.0.0.0.zip",
+        "checksum": "3274365d5882a4a2d8b7137633b6558b",
+        "timestamp": "2026-11-24T17:35:00Z"
+      }
+    ]
+  }
+]
